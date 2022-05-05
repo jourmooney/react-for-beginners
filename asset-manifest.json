@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/nomadcoders-react-for-beginners/static/js/main.b4cbce00.js",
+    "main.js": "/nomadcoders-react-for-beginners/static/js/main.9f1b241f.js",
     "index.html": "/nomadcoders-react-for-beginners/index.html",
-    "main.b4cbce00.js.map": "/nomadcoders-react-for-beginners/static/js/main.b4cbce00.js.map"
+    "main.9f1b241f.js.map": "/nomadcoders-react-for-beginners/static/js/main.9f1b241f.js.map"
   },
   "entrypoints": [
-    "static/js/main.b4cbce00.js"
+    "static/js/main.9f1b241f.js"
   ]
 }
